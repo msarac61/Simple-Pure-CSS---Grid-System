@@ -736,6 +736,12 @@
     margin-right: auto !important;
 }
 
+.ml-auto,
+.mx-auto {
+    margin-left: auto !important;
+}
+
+
 .sare-img {
     width: 100%;
     height: auto;
